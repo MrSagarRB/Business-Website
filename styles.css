@@ -39,3 +39,24 @@
     margin: 15px 0;
 
 }
+
+.common-btn{
+     padding: 18px 40px;
+     background: transparent;
+     outline: none;
+     border: 2px solid #f67c92;
+     font-weight: bold;
+     cursor: pointer;
+}
+
+p{
+    font-size: 15px;
+    line-height: 18px;
+    color: #777;
+}
+
+
+.header-text button{
+    margin-top: 20px;
+    margin-bottom:60px;
+}
